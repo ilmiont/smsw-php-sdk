@@ -1,5 +1,5 @@
 {
-    "name": "thesmsworks/smsw-php-sdk",
+    "name": "ilmiont/smsw-php-sdk",
     "description": "PHP SDK for the SMS Works Message API",
     "keywords": [
         "sms",
