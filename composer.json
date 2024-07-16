@@ -1,5 +1,5 @@
 {
-    "name": "thesmsworks/smsw-php-sdk",
+    "name": "ilmiont/smsw-php-sdk",
     "description": "The SMS Works provides a low-cost, reliable SMS API for developers. Pay only for delivered texts, all failed UK messages are refunded.",
     "keywords": [
         "openapitools",
